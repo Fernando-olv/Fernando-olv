@@ -1,11 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Fernando</h1>
 <h3 align="center">Cybersecurity Engineer</h3>
 
-<p align='center'>
-<a href="https://www.linkedin.com/in/fernando-oliveira-figaro-741879185/"><img height="30" src="https://image.flaticon.com/icons/svg/174/174857.svg"></a>&nbsp;&nbsp;
-<a a href="mailto:fernandoghw@hotmail.com"><img height="30" src="https://d29fhpw069ctt2.cloudfront.net/icon/image/84650/preview.svg"></a>&nbsp;&nbsp;
-</p>
-
 
 
 ---
@@ -25,18 +20,21 @@
 ---
 
 ### Languages and Tools:
-<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
-<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"/>
+<img align="left" width="26px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/AWS-Dark.svg"/>
+<img align="left" width="26px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/MySQL-Dark.svg"/>
 <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
-<img align="left" width="26px" src="https://vuejs.org/images/logo.png" />
-<img align="left" width="26px" src="https://devkico.itexto.com.br/wp-content/uploads/2020/02/electron_logo.png" />
-<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQbjvbjrDQoxplcvegCBXZ2Y7G-heIfKxKW1Q&usqp=CAU" />
-<img align="left" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQNj90HOhTLvM4gfJP5nTH0ZHr5adE8BnoKxg&usqp=CAU" />
-<img align="left" width="26px" src="https://cdn2.downdetector.com/static/uploads/logo/aws-logo-icon-PNG-Transparent-Background_3.png" />
+<img align="left" width="26px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Bash-Dark.svg" />
+<img align="left" width="26px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/PHP-Dark.svg" />
+<img align="left" width="26px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/PostgreSQL-Dark.svg" />
+<img align="left" width="26px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Powershell-Dark.svg" />
+<img align="left" width="26px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/RaspberryPi-Dark.svg" />
+<img align="left" width="26px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Regex-Dark.svg" />
+<img align="left" width="26px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Ruby.svg" />
 <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" />
+
+
+
+
 
 
 <!--
