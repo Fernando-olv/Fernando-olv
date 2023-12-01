@@ -1,13 +1,12 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Fernando</h1>
-<h3 align="center">Software Developer</h3>
+<h3 align="center">Cybersecurity Engineer</h3>
 
 <p align='center'>
 <a href="https://www.linkedin.com/in/fernando-oliveira-figaro-741879185/"><img height="30" src="https://image.flaticon.com/icons/svg/174/174857.svg"></a>&nbsp;&nbsp;
 <a a href="mailto:fernandoghw@hotmail.com"><img height="30" src="https://d29fhpw069ctt2.cloudfront.net/icon/image/84650/preview.svg"></a>&nbsp;&nbsp;
-<a href="https://medium.com/@fernandofigaro"><img height="30" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111505.svg"></a>&nbsp;&nbsp;
 </p>
 
-I'm a 21 years old software developer focused on JavaScript and NodeJS.
+
 
 ---
 
@@ -17,11 +16,9 @@ I'm a 21 years old software developer focused on JavaScript and NodeJS.
 
 🇧🇷 Living in [Santana de Parnaíba, Brazil](https://www.google.com/maps/place/Santana+de+Parna%C3%ADba+-+Polvilho,+Santana+de+Parna%C3%ADba+-+SP/data=!4m2!3m1!1s0x94cf1b48cc9f4fbd:0x9e2a5b9e0e692e6c?sa=X&ved=2ahUKEwiUyraYp5rtAhVtCrkGHSCiAKgQ8gEwFnoECA0QAQ)
 
-🎓 Automation Engineering Student @ [FATEC Osasco](https://fatecosasco.edu.br/fatec/)
-
-📚 Frontend student
-
-📝 Check my writing on [Medium](https://medium.com/@fernandofigaro)
+🎓 Cybersecurity Master's degree @ [PUC Minas Gerais](https://www.pucminas.br/destaques/Paginas/default.aspx)
+🌱 I’m currently learning Safe Software Development and a little bit of everything regarding cybersecurity
+🔭 I’m currently working on POC about new vulnerabilities in the wild, I am improving myself by coding.
 
 <br />
 
