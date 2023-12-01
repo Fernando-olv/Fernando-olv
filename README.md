@@ -2,11 +2,11 @@
 <h3 align="center">Cybersecurity Engineer</h3>
 
 
-
+---
 
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
----
+
 ### A little about me
 
 🇧🇷 Living in [Santana de Parnaíba, Brazil](https://www.google.com/maps/place/Santana+de+Parna%C3%ADba+-+Polvilho,+Santana+de+Parna%C3%ADba+-+SP/data=!4m2!3m1!1s0x94cf1b48cc9f4fbd:0x9e2a5b9e0e692e6c?sa=X&ved=2ahUKEwiUyraYp5rtAhVtCrkGHSCiAKgQ8gEwFnoECA0QAQ)</br>
