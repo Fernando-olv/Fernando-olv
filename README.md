@@ -10,7 +10,7 @@
 ### A little about me
 
 🇧🇷  Living in [Santana de Parnaíba, Brazil](https://www.google.com/maps/place/Santana+de+Parna%C3%ADba+-+Polvilho,+Santana+de+Parna%C3%ADba+-+SP/data=!4m2!3m1!1s0x94cf1b48cc9f4fbd:0x9e2a5b9e0e692e6c?sa=X&ved=2ahUKEwiUyraYp5rtAhVtCrkGHSCiAKgQ8gEwFnoECA0QAQ)</br>
-🎓 Cybersecurity Master's degree @ [PUC Minas Gerais](https://www.pucminas.br/destaques/Paginas/default.aspx)</br>
+🎓 Specializing in Cybersecurity @ [PUC Minas Gerais](https://www.pucminas.br/destaques/Paginas/default.aspx)</br>
 🌱 Exploring Safe Software Development and diverse aspects of cybersecurity.</br>
 🔭 Creating POCs for new vulnerabilities while enhancing coding skills.
 
