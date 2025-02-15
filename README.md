@@ -1,59 +1,74 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Fernando</h1>
-<h3 align="center">Software Engineer </h3>
+## 🌟 Welcome to My GitHub Profile! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />
 
-
----
-
-
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
-
-### A little about me
-
-🇧🇷  Living in [Santana de Parnaíba, Brazil](https://www.google.com/maps/place/Santana+de+Parna%C3%ADba+-+Polvilho,+Santana+de+Parna%C3%ADba+-+SP/data=!4m2!3m1!1s0x94cf1b48cc9f4fbd:0x9e2a5b9e0e692e6c?sa=X&ved=2ahUKEwiUyraYp5rtAhVtCrkGHSCiAKgQ8gEwFnoECA0QAQ)</br>
-🎓 Specializing in Cybersecurity @ [PUC Minas Gerais](https://www.pucminas.br/destaques/Paginas/default.aspx)</br>
-🌱 Exploring Safe Software Development and diverse aspects of cybersecurity.</br>
-🔭 Creating POCs for new vulnerabilities while enhancing coding skills.</br>
-📻 HAM Enthusiast.
-
-
-</br>
-</br>
+<h1 align="center">Hi there, I'm Fernando! 👨‍💻</h1>
+<h3 align="center">🚀 Software Engineer | Cybersecurity Enthusiast </h3>
 
 ---
 
-### Languages and Tools:
-<img align="left" width="26px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/AWS-Dark.svg"/>
-<img align="left" width="26px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/MySQL-Dark.svg"/>
-<img align="left" width="26px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Bash-Dark.svg" />
-<img align="left" width="26px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/PHP-Dark.svg" />
-<img align="left" width="26px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/PostgreSQL-Dark.svg" />
-<img align="left" width="26px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Powershell-Dark.svg" />
-<img align="left" width="26px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/RaspberryPi-Dark.svg" />
-<img align="left" width="26px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Regex-Dark.svg" />
-<img align="left" width="26px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Python-Dark.svg" />
-<img align="left" width="26px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Linux-Dark.svg" />
-<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" />
-<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" width="26px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/042e36c55d4d757621dedc4f03108213fbb57ec4/databases/mariadb.svg" />
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200px'>
 
+### 🌎 About Me
+🇧🇷 Living in [Santana de Parnaíba, Brazil](https://www.google.com/maps/place/Santana+de+Parna%C3%ADba+-+Polvilho,+Santana+de+Parna%C3%ADba+-+SP/)</br>
+🎓 Pursuing a Degree in Computer Science @ [Universide Paulista](https://unip.br/)</br>
+🎓 Specialized in Cybersecurity @ [PUC Minas Gerais](https://www.pucminas.br/destaques/Paginas/default.aspx)</br>
+🌱 Exploring Safe Software Development & Cybersecurity.</br>
+🔭 Creating POCs for vulnerabilities while enhancing my coding skills.</br>
+📻 HAM Enthusiast & Tinkerer in Embedded Systems.
 
+---
 
+#### 🌟 Favorite Languages & Frameworks:
+![Python](https://img.shields.io/badge/Python-3670A0.svg?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
 
+#### ⚡ Frameworks & Platforms:
+![FastAPI](https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Android](https://img.shields.io/badge/Android_Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 
+#### 🛠 DevOps, CI/CD & Cloud:
+![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF.svg?style=for-the-badge&logo=github-actions&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
+---
 
+#### 📊 Monitoring & Logging:
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 
-<!--
-**Fernando-olv/Fernando-olv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+#### 💻 Other Technologies:
+![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+![Raspberry Pi](https://img.shields.io/badge/RaspberryPi-C51A4A.svg?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🏆 GitHub Stats & Activity
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight"/>
+</div>
+
+---
+
+### 📬 Connect With Me!
+- LinkedIn: [(https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/fernando-figaro-741879185/)]
+- Email: fernandoghw@gmail.com
+
+---
+
+⭐ Fun Fact: I love breaking things... just to put them back together again! 🛠️
+
+---
+
+Thanks for stopping by! Let's build something awesome together! 🚀
