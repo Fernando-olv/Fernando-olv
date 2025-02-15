@@ -1,5 +1,3 @@
-## 🌟 Welcome to My GitHub Profile! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />
-
 <h1 align="center">Hi there, I'm Fernando! 👨‍💻</h1>
 <h3 align="center">🚀 Software Engineer | Cybersecurity Enthusiast </h3>
 
