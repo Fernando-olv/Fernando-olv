@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Fernando! 👨‍💻</h1>
-<h3 align="center">🚀 Software Engineer | Cybersecurity Enthusiast </h3>
+<h3 align="center">🚀 Aspiring Software Engineer | Cybersecurity Enthusiast </h3>
 
 ---
 
@@ -60,7 +60,7 @@
 ---
 
 ### 📬 Connect With Me!
-- LinkedIn: [(https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/fernando-figaro-741879185/)]
+- LinkedIn: [(https://www.linkedin.com/in/fernando-figaro-741879185/)]
 - Email: fernandoghw@gmail.com
 
 ---
