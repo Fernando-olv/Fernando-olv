@@ -54,9 +54,6 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fernando-olv&theme=tokyonight"/>
   </br>
-  <div align="center">
-  <img src="https://github.com/fernando-olv/fernando-olv/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-  </br>
 </div>
 
 ---
