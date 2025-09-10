@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Fernando! 👨‍💻</h1>
-<h3 align="center">🚀 Software Engineer | Cybersecurity Enthusiast </h3>
+<h3 align="center">🚀 Software Engineer | Cybersecurity Specialist </h3>
 
 ---
 
