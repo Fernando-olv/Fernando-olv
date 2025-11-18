@@ -66,9 +66,6 @@
 
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/github/commit-activity/m/fernando-olv/fernando-olv?style=for-the-badge&color=111" />
-</p>
 
 ---
 
