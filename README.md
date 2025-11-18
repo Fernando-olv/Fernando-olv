@@ -1,82 +1,95 @@
-<h1 align="center">Fernando Fígaro</h1>
-<h3 align="center">Software Engineer · Defensive Security · Secure Systems Design</h3>
+<h1 align="center">👋 Hey, I'm Fernando</h1>
+<h3 align="center">Software Engineer · Defensive Security · Teacher · Builder</h3>
 
 <p align="center">
-  <a href="https://github.com/fernando-olv">
-    <img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/fernando-figaro-741879185/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+  <img src="https://img.shields.io/badge/Secure%20Systems-111?style=for-the-badge&logo=shield&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-111?style=for-the-badge&logo=linux&logoColor=f6c915"/>
+  <img src="https://img.shields.io/badge/Backend%20Engineering-111?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
 ---
 
-## About Me
-🧑🏻‍🏫 Software Development Instructor, SENAI - Helping new developers build a strong foundation in programming, systems, and software quality.
+## 🖤 What I Do
 
-📍 Santana de Parnaíba, Brazil  
-🎓 BSc Computer Science — UNIP  
-🎓 Post-Graduate in Cybersecurity — PUC Minas  
+My background mixes **software engineering**, **defensive security**, and **teaching**.  
+I enjoy turning logs into insights, incidents into lessons, and complex topics into something others can use.
 
----
-
-## Areas of Expertise
-
-### **Software Engineering**
-- Secure APIs (FastAPI, Flask, .NET)
-- Backend development in Python, C#, Java
-- Systems design & reliability principles
-- Infrastructure automation & containerization
-
-### **Defensive Security**
-- SIEM engineering (Elastic Stack, Wazuh)
-- Log normalization, pipeline design, detection logic
-- Host & container telemetry
-- Vulnerability analysis & threat demonstration
-- Hardening & secure configuration practices
-
-### **DevOps & Observability**
-- Docker & container security
-- GitHub Actions (CI/CD & automated compliance checks)
-- Prometheus + Grafana dashboards
-- Linux systems engineering
+Think:  
+backend engineer + blue-team thinking + teacher instincts + hacker curiosity.
 
 ---
 
-## Tech Stack
+## 🧠 What I’m Good At
 
-**Languages:** Python · C# · Java · Bash  
-**Backends:** FastAPI · Flask · .NET  
-**Security/Monitoring:** Wazuh · Elastic Stack · Filebeat · OSQuery  
-**Infra & DevOps:** Docker · GitHub Actions · Linux · Systemd  
-**Databases:** PostgreSQL · MySQL  
+### **Engineering**
+- Backend architecture (Python · C# · Java)
+- FastAPI · Flask · .NET backend ecosystems  
+- Designing components that are predictable, testable, observable  
+- GitHub Actions & automation  
+- Containerized development (Docker, Linux)
+
+### **Security / Blue Team**
+- Elastic + Wazuh SIEM pipelines  
+- Detection engineering, log pipelines, Filebeat
+- Hardening, telemetry, secure-by-default design  
+- Threat modeling & controlled exploitation  
+- “Break → observe → fix → automate” loops
+
+### **Teaching & Mentorship**
+- Python fundamentals → backend → APIs  
+- SQL · REST · Linux basics  
+- Secure coding techniques  
+- Guiding new developers into real-world engineering thinking
 
 ---
 
-## Activity Overview
+## 🛠 Tools I Keep in My Daily Loadout
 
 <p align="center">
-
-<!-- Auto-updating stats card -->
-<img src="https://github-readme-stats.vercel.app/api?username=fernando-olv&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-
-<!-- Auto-updating commit/language card -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernando-olv&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-
+  <img src="https://skillicons.dev/icons?i=py,flask,fastapi,java,postgres,mysql,mongo&perline=8" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,bash,kali,docker,nginx,elasticsearch,prometheus,grafana,git,github,githubactions,vscode&perline=14" />
 </p>
 
+But honestly?  
+Tools come and go.  
+**The fundamentals stay.**
 
 ---
 
-## Professional Philosophy  
-**“Sometimes you have to demo a threat to spark a solution”**  
-— *Barnaby Jack*
+## 📌 Current Focus Areas
+
+- Strengthening my defensive engineering workflow  
+- Automating monitoring and detection logic  
+- Building more secure API patterns  
+- Teaching students how to think like engineers, not just coders  
+- Diving deeper into system internals & observability  
 
 ---
 
-## 📬 Contact  
-📧 **fernandofigaro@outlook.com**  
-🔗 [LinkedIn](https://www.linkedin.com/in/fernando-figaro-741879185/)  
+## 📊 Activity Snapshot
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernando-olv&layout=compact&theme=tokyonight&hide_border=true" height="165">
+</p>
+
+---
+
+## 🧩 A Quote I Keep Close  
+**“Sometimes you must reveal the threat to motivate the solution.”**  
+— *Barnaby Jack (RIP)*
+
+A reminder that security isn’t paperwork —  
+it's proof.
+
+---
+
+## Let’s Connect
+
+<p align="center">
+  <a href="mailto:"placeholder@email.com"><img src="https://img.shields.io/badge/Email-111?style=for-the-badge&logo=minutemailer&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/fernando-figaro-741879185/"><img src="https://img.shields.io/badge/LinkedIn-111?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/></a>
+  <a href="https://github.com/fernando-olv"><img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
 
