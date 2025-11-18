@@ -67,7 +67,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?color=111&label=Total%20Commits&query=%24.data.totalCommits&url=https://raw.githubusercontent.com/fernando-olv/fernando-olv/main/metrics.json&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/commit-activity/m/fernando-olv/fernando-olv?style=for-the-badge&color=111" />
 </p>
 
 ---
