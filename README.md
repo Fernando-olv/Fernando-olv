@@ -14,6 +14,7 @@
 
 ## About Me
 🧑🏻‍🏫 Software Development Instructor, SENAI - Helping new developers build a strong foundation in programming, systems, and software quality.
+
 📍 Santana de Parnaíba, Brazil  
 🎓 BSc Computer Science — UNIP  
 🎓 Post-Graduate in Cybersecurity — PUC Minas  
